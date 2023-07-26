@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I'm currently learning Computer Science and Engineering at National Institute of Technology Calicut
+- I'm currently learning Computer Science and Engineering at the National Institute of Technology Calicut
+- How to reach me: https://www.linkedin.com/in/mohammed-ameen-778026236/
 
 <!--
 **Ameenafz248/Ameenafz248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
